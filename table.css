@@ -1,0 +1,7 @@
+
+table,td,th{
+ border-bottom: 2px solid black;
+ margin-left: 200px;
+ padding: 10px;
+ background-color: aqua;     
+}
